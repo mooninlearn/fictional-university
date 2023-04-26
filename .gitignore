@@ -3,3 +3,6 @@ wp-admin/
 wp-includes/
 logs/
 conf/
+
+.gitignore
+setup.md
