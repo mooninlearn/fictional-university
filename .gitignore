@@ -4,5 +4,11 @@ wp-includes/
 logs/
 conf/
 
+doc/
 .gitignore
 setup.md
+Pipfile
+
+*.json
+*.mo
+*.po
