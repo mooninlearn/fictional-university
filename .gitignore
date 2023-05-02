@@ -3,6 +3,7 @@ wp-admin/
 wp-includes/
 logs/
 conf/
+plugins/
 
 doc/
 .gitignore
